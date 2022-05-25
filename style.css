@@ -1,0 +1,21 @@
+div {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#home-title.inner-title {
+    font-weight: bold;
+}
+
+#home-title {
+    font-size: 48px;
+    color: #ff0000;
+}
+
+.inner-title {
+    font-size: 38px;
+    color: #0000ff;
+}
+
+.home-list {
+    font-size: 38px;
+}
