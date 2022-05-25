@@ -1,5 +1,6 @@
 div {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 25px;
 }
 
 #home-title.inner-title {
@@ -18,4 +19,12 @@ div {
 
 .home-list {
     font-size: 38px;
+}
+
+.recipe-description {
+    color: #636f65;
+}
+
+.recipe-ingredients, .recipe-steps {
+    color: #1bb432;
 }
