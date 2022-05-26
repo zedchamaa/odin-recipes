@@ -35,12 +35,13 @@ nav ul {
     justify-content: flex-start;
     align-items: center;
     height: 30px;
-    width: 500px;
+    width: 400px;
     padding: 0px;
+    gap: 5px;
 }
 
 nav li {
     flex: 1 1 auto;
-    text-align: left;
+    text-align: center;
     list-style-type: none;
 }
