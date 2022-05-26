@@ -29,3 +29,18 @@ div {
 .recipe-ingredients, .recipe-steps {
     color: #1bb432;
 }
+
+nav ul {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 30px;
+    width: 500px;
+    padding: 0px;
+}
+
+nav li {
+    flex: 1 1 auto;
+    text-align: left;
+    list-style-type: none;
+}
